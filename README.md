@@ -14,4 +14,4 @@ This is a good example of [my code](https://gist.github.com/IsraQuanDev/f1566264
 Python function [function](technical_docs.ipynb)
 
 ### IMAGES
-![IMAGE](https://github.com/IsraQuanDev/technical-discussion/issues/1#issue-1602358256](https://user-images.githubusercontent.com/99102008/221755841-12a1e07d-2d85-45e4-b3b3-652c3cd88135.PNG) 
+![IMAGE](https://user-images.githubusercontent.com/99102008/221755841-12a1e07d-2d85-45e4-b3b3-652c3cd88135.PNG) 
