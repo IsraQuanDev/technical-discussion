@@ -12,3 +12,6 @@ This is a good example of [my code](https://gist.github.com/IsraQuanDev/f1566264
 
 ### COOLAB EXAMPLE
 Python function [function](technical_docs.ipynb)
+
+### IMAGES
+[IMAGE](https://github.com/IsraQuanDev/technical-discussion/issues/1#issue-1602358256)
